@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyler&#39;s Personal Blog</title>
-    <link>http://tylermd.com/</link>
+    <link>https://tylermanning.github.io/</link>
     <description>Recent content on Tyler&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Tyler Manning-Dahan</copyright>
     <lastBuildDate>Sun, 18 Sep 2016 11:00:00 +0000</lastBuildDate>
-    <atom:link href="http://tylermd.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tylermanning.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Site Launch!</title>
-      <link>http://tylermd.com/post/managing-content/</link>
+      <link>https://tylermanning.github.io/post/managing-content/</link>
       <pubDate>Sun, 18 Sep 2016 11:00:00 +0000</pubDate>
       
-      <guid>http://tylermd.com/post/managing-content/</guid>
+      <guid>https://tylermanning.github.io/post/managing-content/</guid>
       <description>&lt;p&gt;Finally got this personal website up and running! Thank you &lt;a href=&#34;http://olivier.is-a-dev.com/&#34;&gt;Olivier Tremblay&lt;/a&gt; for telling me to use Hugo. Should have listened to you earlier. It is so easy and lightning fast.&lt;/p&gt;
 
 &lt;p&gt;This Fall is gonna fly by with the start of my Master&amp;rsquo;s degree. I&amp;rsquo;ll be adding a ton more content in the Projects section when I get a chance. Also, once I get some more academic papers completed I will create a special section dedicated to them as well.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Coming Soon!</title>
-      <link>http://tylermd.com/project/coming-soon/</link>
+      <link>https://tylermanning.github.io/project/coming-soon/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://tylermd.com/project/coming-soon/</guid>
+      <guid>https://tylermanning.github.io/project/coming-soon/</guid>
       <description></description>
     </item>
     
