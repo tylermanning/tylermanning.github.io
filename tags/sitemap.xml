@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://tylermanning.github.io/</loc>
+    <lastmod>2016-09-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylermanning.github.io/post/managing-content/</loc>
+    <lastmod>2016-09-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylermanning.github.io/project/coming-soon/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylermanning.github.io/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylermanning.github.io/home/cv/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
