@@ -45,6 +45,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/macdaddyballer
+- icon: linkedin
+  icon_pack: fab
+  link: https://ca.linkedin.com/in/tylermanningdahan
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -67,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a quantitative researcher at DRW in Montreal. Previously, I was a master’s student at the Concordia Institute for Information Systems Engineering (CIISE), where I completed my thesis (M.A.Sc) under the supervision of Dr. Jia Yuan Yu. My research interests include change point detection, operations research and financial market microstructures.
+I am a quantitative researcher at DRW in Montreal. Previously, I was a master’s student at the Concordia Institute for Information Systems Engineering (CIISE), where I completed my thesis (M.A.Sc) under the supervision of [Dr. Jia Yuan Yu](https://users.encs.concordia.ca/~jiayuan/). My research interests include change point detection, operations research and financial market microstructures.
