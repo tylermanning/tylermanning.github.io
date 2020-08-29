@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tyler Manning-Dahan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Quantitative Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: DRW
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Efficiency Driven Machine Learning
+- Fintech
+- Productivized Services
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MASc in Quality Systems Engineering
+    institution: Concordia University
+    year: 2020
+  - course: BEng in Electrical Engineering
+    institution: McGill University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,17 +40,17 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  icon_pack: fas 
+  link: mailto:tyler.manning.dahan53@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/macdaddyballer
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tylermanning
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a quantitative researcher at DRW in Montreal. Previously, I was a master’s student at the Concordia Institute for Information Systems Engineering (CIISE), where I completed my thesis (M.A.Sc) under the supervision of Dr. Jia Yuan Yu. My research interests include change point detection, operations research and financial market microstructures.
