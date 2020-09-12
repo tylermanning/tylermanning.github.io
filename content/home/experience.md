@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Quantitative Researcher"
+  company = "DRW"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Montreal"
+  date_start = "2017-03-17"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Researching quantitative strategies for algorithmic trading.
+  * Collaborating with production software development teams.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Partner Manager"
+  company = "Lightspeed"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Montreal"
+  date_start = "2015-11-01"
+  date_end = "2016-09-01"
+  description = """
+  * Improved the app ecosystem for Lightspeed’s e-commerce & omnichannel platforms in North America. 
+  * Negotiated revenue shares, referral agreements, and other kickbacks with partners. 
+  * Beta tested apps and troubleshooted API-related issues.
+  """
+
+[[experience]]
+  title = "Project Manager"
+  company = "REOL Services / CityRealty"
+  company_url = ""
+  location = "Montreal"
+  date_start = "2014-07-01"
+  date_end = "2015-10-01"
+  description = """
+  * Project lead for 2 web development teams simultaneously. 
+  * Worked on real estate web apps & iOS applications using agile scrum methodology. 
+  * Created project timelines, Gantt Charts, budget reports, and provided daily client support to clients.
+
+  """
 
 +++
