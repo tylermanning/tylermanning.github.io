@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_end = "2016-09-01"
   description = """
   * Improved the app ecosystem for Lightspeed’s e-commerce & omnichannel platforms in North America. 
-  * Negotiated revenue shares, referral agreements, and other kickbacks with partners. 
+  * Negotiated revenue shares and referral agreements with partners. 
   * Beta tested apps and troubleshooted API-related issues.
   """
 
@@ -52,9 +52,9 @@ date_format = "Jan 2006"
   date_start = "2014-07-01"
   date_end = "2015-10-01"
   description = """
-  * Project lead for 2 web development teams simultaneously. 
-  * Worked on real estate web apps & iOS applications using agile scrum methodology. 
-  * Created project timelines, Gantt Charts, budget reports, and provided daily client support to clients.
+  * Project lead for 2 web development teams that focused on real estate web apps & iOS applications. 
+  * Created project timelines and budget reports for stakeholders.
+  * Negotiated contracts with clients and provided daily support or trainings to clients.
 
   """
 
