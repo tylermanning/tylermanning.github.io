@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time series | Tyler&#39;s Blog</title>
+    <link>http://tylermd.com/tag/time-series/</link>
+      <atom:link href="http://tylermd.com/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>time series</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Aug 2020 15:19:49 -0400</lastBuildDate>
+    <image>
+      <url>http://tylermd.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>time series</title>
+      <link>http://tylermd.com/tag/time-series/</link>
+    </image>
+    
+    <item>
+      <title>Master&#39;s Thesis</title>
+      <link>http://tylermd.com/project/thesis/</link>
+      <pubDate>Sat, 29 Aug 2020 15:19:49 -0400</pubDate>
+      <guid>http://tylermd.com/project/thesis/</guid>
+      <description>&lt;p&gt;This is the final submission of my master thesis that is hosted on Concordia&amp;rsquo;s 
+&lt;a href=&#34;https://spectrum.library.concordia.ca/987140/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spectrum repository here.&lt;/a&gt; It explores online kernel change point detection methods across a variety of synthetic datasets. Real market liquidity data is also analyzed using a kernel change point method.&lt;/p&gt;
+&lt;p&gt;To cite this thesis use the following bibtex snippet:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@unpublished{library987140,
+          year = {2020},
+          month = {August},
+          author = {Tyler Manning-Dahan},
+          title = {Applying Kernel Change Point Detection To Financial Markets},
+          school = {Concordia University},
+          url = {https://spectrum.library.concordia.ca/987140/}
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

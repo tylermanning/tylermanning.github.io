@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autoencoder | Tyler&#39;s Blog</title>
+    <link>http://tylermd.com/tag/autoencoder/</link>
+      <atom:link href="http://tylermd.com/tag/autoencoder/index.xml" rel="self" type="application/rss+xml" />
+    <description>autoencoder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 20:55:49 -0400</lastBuildDate>
+    <image>
+      <url>http://tylermd.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>autoencoder</title>
+      <link>http://tylermd.com/tag/autoencoder/</link>
+    </image>
+    
+    <item>
+      <title>School Project</title>
+      <link>http://tylermd.com/project/pca-autoencoders/</link>
+      <pubDate>Sun, 30 Aug 2020 20:55:49 -0400</pubDate>
+      <guid>http://tylermd.com/project/pca-autoencoders/</guid>
+      <description>&lt;p&gt;This project explores principal component analysis and autoencoders to reduce the dimensionality of the 
+&lt;a href=&#34;https://github.com/zalandoresearch/fashion-mnist&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fashion MNIST dataset&lt;/a&gt;. Multinomial logistic regression is paired with each technique to classify the images.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
